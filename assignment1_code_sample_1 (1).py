@@ -1,7 +1,7 @@
 import os
 import pymysql
 from urllib.request import urlopen
-# testing
+# testing2
 db_config = {
     'host': 'mydatabase.com',
     'user': 'admin',
